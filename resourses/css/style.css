@@ -23,6 +23,12 @@ body {
     color: gray
 }
 
+.footer {
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aquamarine;
+}
+
 
 /*LINKS*/
 .link--cta {
